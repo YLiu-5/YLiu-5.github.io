@@ -1,6 +1,6 @@
 # Site settings
 title: Yang Liu's Blog
-# SEOTitle: 柏荧的博客 | BY Blog
+SEOTitle: This is Yang Liu's Blog
 header-img: img/post-bg-desk.jpg
 email: yang.liu.3@kaust.edu.sa
 description: "Every failure is leading towards success."
@@ -12,7 +12,7 @@ github_repo: "https://github.com/YLiu-5/YLiu-5.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+# sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
